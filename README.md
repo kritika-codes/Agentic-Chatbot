@@ -1,4 +1,4 @@
-# Agentic-Chatbot: A simple AI agent using local LLM
+# Agentic-Chatbot: AI agent using local LLM
 
 This is a tool calling agent equipped with several tools :
   1. A calculator tool : Helps to do computations
